@@ -1,10 +1,6 @@
-# f28hs-2022-23-cwk2-sys
+#Mastermind-Game-on-RaspberryPi
 
 Coursework 2 in F28HS "Hardware-Software Interface" on Systems Programming in C and ARM Assembler
-
-The [CW specification is here](http://www.macs.hw.ac.uk/~hwloidl/Courses/F28HS/Coursework_F28HS_CW2_2023.pdf)
-
-Use [this link](https://docs.google.com/spreadsheets/d/1MMBCydDlHNhF7g4ZgSZD5w9F9BvCjM36NbdvMniP3lc/edit?usp=sharing) to **sign-up as a pair** for this pair project.
 
 Links:
 - You can use any machine with an installation of the `gcc` C compiler for running the C code of the game logic
@@ -21,9 +17,9 @@ This folder contains the following CW2 specification template files for the sour
 - `testm.c`       ... a testing function to test C vs Assembler implementations of the matching function
 - `test.sh`       ... a script for unit testing the matching function, using the -u option of the main prg
 
-## Gitlab usage
+## Github usage
 
-**Fork** and **Clone** this gitlab repo to get started on the coursework.
+**Fork** and **Clone** this github repo to get started on the coursework.
 
 Complete the functions in `master-mind.c` and in `lcdBinary.c`. Initially, you can implement these as C
 functions. However, for the final implementation, the low-level functions for controlling LED, button, and
@@ -32,8 +28,6 @@ for calculating the number of exact and approximate matches also needs to be imp
 The file `mm-matches.s` contains a template this Assembler code.
 
 You can test basic functionality by using the `testm.c` C function and the `test.sh` shell script (see below).
-
-**Push** to the repo and ask questions in the comments box to get help.
 
 ## Building and running the application
 
@@ -97,6 +91,7 @@ Raspberry by as shown in the Fritzing diagram below.
 You will need resistors to control the current to the LED and from the Button. You
 will also need a potentiometer to control the contrast of the LCD display.
 
-The Fritzing diagram below visualises this wiring. 
+The Fritzing diagram in the folder visualises this wiring. 
 
-![Fritzing Diagram](fritz_CW2_2020_bb.png "Fritzing Diagram with LED and Button")
+## Please Refer to the project report for additional information.
+

@@ -1,4 +1,4 @@
-#Mastermind-Game-on-RaspberryPi
+# Mastermind-Game-on-RaspberryPi
 
 Coursework 2 in F28HS "Hardware-Software Interface" on Systems Programming in C and ARM Assembler
 

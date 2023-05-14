@@ -93,5 +93,5 @@ will also need a potentiometer to control the contrast of the LCD display.
 
 The Fritzing diagram in the folder visualises this wiring. 
 
-## Please Refer to the project report for additional information.
+## ❗Please Refer to the project report for additional information.
 
